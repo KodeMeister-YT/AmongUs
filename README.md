@@ -1,5 +1,4 @@
-# AmongUs
-Recreated version of among us
+# Recreated version of Among Us
 -----------------------------------------------------------
 play online https://kodemeister-yt.github.io/AmongUs/
 -----------------------------------------------------------
